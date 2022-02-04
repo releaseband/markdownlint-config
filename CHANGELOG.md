@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/releaseband/markdownlint-config/compare/v1.0.1...v1.0.2) (2022-02-04)
+
+
+### Bug Fixes
+
+* edit readme ([e75bbc3](https://github.com/releaseband/markdownlint-config/commit/e75bbc3edd2cd62b37cc87cbbe8c888d8509f36d))
+
 ## [1.0.1](https://github.com/releaseband/markdownlint-config/compare/v1.0.0...v1.0.1) (2022-02-04)
 
 
