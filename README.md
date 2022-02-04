@@ -16,3 +16,23 @@ create `.markdownlint.json` file in the **root project folder**:
   "extends": "@releaseband/markdownlint-config"
 }
 ```
+
+create `.markdownlintignore` file in the **root project folder**:
+
+```text
+node_modules/
+.idea/
+.vscode/
+.history/
+CHANGELOG.md
+```
+
+add script in `package.json`:
+
+```json
+{
+  "scripts": {
+    "markdownlint": "markdownlint '**/*.md' --fix"
+  }
+}
+```
