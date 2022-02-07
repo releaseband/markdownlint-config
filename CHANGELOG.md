@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/releaseband/markdownlint-config/compare/v1.1.0...v2.0.0) (2022-02-07)
+
+
+### Features
+
+* remove unnecessary tools configs ([46701a7](https://github.com/releaseband/markdownlint-config/commit/46701a702f973de6002de11a737e3fbb1d1484ba))
+
+
+### BREAKING CHANGES
+
+* publish release version
+
 # [1.1.0](https://github.com/releaseband/markdownlint-config/compare/v1.0.2...v1.1.0) (2022-02-05)
 
 
