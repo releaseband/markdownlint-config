@@ -1,6 +1,6 @@
 # @releaseband/markdownlint-config
 
-markdownlint shareable config
+[markdownlint](https://github.com/markdownlint/markdownlint) shareable config
 
 ## Installing
 
